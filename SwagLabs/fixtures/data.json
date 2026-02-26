@@ -1,0 +1,11 @@
+{
+  "valid_user": {
+    "username": "standard_user",
+    "password": "secret_sauce"
+  },
+  "checkout_details": {
+    "first_name": "Gokul",
+    "last_name": "M",
+    "zip_code": "600001"
+  }
+}
